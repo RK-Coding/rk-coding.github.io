@@ -69,7 +69,7 @@ function drawPixelBlock(x, y, width, height, color)
 //Math functions
 function pi()
 {
-    return Math.pi;
+    return Math.PI;
 }
 
 function int(value)
