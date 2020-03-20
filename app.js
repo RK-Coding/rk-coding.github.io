@@ -21,8 +21,8 @@ getDownKeys(keyPush);
 var playerX = 14.7;
 var playerY = 5.09;
 var playerA = 50;
-var playerRotateSpeed = 0.6;
-var playerMoveSpeed = 2;
+var playerRotateSpeed = 0.8;
+var playerMoveSpeed = 5;
 
 var mapWidth = 16;
 var mapHeight = 16;
